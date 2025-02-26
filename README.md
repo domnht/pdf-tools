@@ -1,5 +1,5 @@
 # PDF Tools
-A small app to merge and edit meta informations for PDF file.
+A simple tool to merge PDFs and modify metadata.
 
 ## Directory structure:
 - **`icons`**: Store icon for app UI.
@@ -10,4 +10,4 @@ A small app to merge and edit meta informations for PDF file.
 
 ## Notes
 - Required packages: `PyPDF2`, `PyQt6`.
-- In order to build the app, please install `PyInstaller`.
+- To build the app, please install `PyInstaller`.
